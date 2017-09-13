@@ -1,0 +1,12 @@
+popcount.lo: popcount.c /usr/include/stdc-predef.h ../config.h \
+ ../ws_diag_control.h ../wsutil/popcount.h ../ws_symbol_export.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+../ws_diag_control.h:
+
+../wsutil/popcount.h:
+
+../ws_symbol_export.h:

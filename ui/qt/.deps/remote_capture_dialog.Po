@@ -1,0 +1,8 @@
+remote_capture_dialog.o: remote_capture_dialog.cpp \
+ /usr/include/stdc-predef.h ../../config.h ../../ws_diag_control.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:
+
+../../ws_diag_control.h:

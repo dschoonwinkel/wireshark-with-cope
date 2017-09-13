@@ -1,0 +1,4 @@
+rtp_audio_stream.moc.o: rtp_audio_stream.moc.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

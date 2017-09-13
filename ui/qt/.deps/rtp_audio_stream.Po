@@ -1,0 +1,10 @@
+rtp_audio_stream.o: rtp_audio_stream.cpp /usr/include/stdc-predef.h \
+ rtp_audio_stream.h ../../config.h ../../ws_diag_control.h
+
+/usr/include/stdc-predef.h:
+
+rtp_audio_stream.h:
+
+../../config.h:
+
+../../ws_diag_control.h:

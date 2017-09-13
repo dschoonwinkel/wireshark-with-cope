@@ -1,0 +1,13 @@
+copyright_info.lo: copyright_info.c /usr/include/stdc-predef.h \
+ ../config.h ../ws_diag_control.h ../wsutil/copyright_info.h \
+ ../ws_symbol_export.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+../ws_diag_control.h:
+
+../wsutil/copyright_info.h:
+
+../ws_symbol_export.h:
